@@ -1,8 +1,6 @@
 ###### Course: §126.33
 
-## Web Design
-
-###### [Main Page](https://worreaud000.github.io/webdesign)
+## Web Design      ###### [Main Page](https://worreaud000.github.io/webdesign)
 
 TechApps in Texas has six main strands based on the National Education Technology Standards and performance indicators based on the International Society for Technology in Education;  creativity and innovation; communication and collaboration; research and information fluency; critical thinking, problem solving, and decision making; digital citizenship; and technology operations and concepts. These are found across the different Tech Apps courses in Texas, including Computer Science.
 
