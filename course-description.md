@@ -2,6 +2,8 @@
 
 ## Web Design
 
+###### [Main Page](https://worreaud000.github.io/webdesign)
+
 TechApps in Texas has six main strands based on the National Education Technology Standards and performance indicators based on the International Society for Technology in Education;  creativity and innovation; communication and collaboration; research and information fluency; critical thinking, problem solving, and decision making; digital citizenship; and technology operations and concepts. These are found across the different Tech Apps courses in Texas, including Computer Science.
 
 Our Web Design course is designed to be an introduction into the fundamentals of the origins of Web Design and where it is today. Web Design offers students a more gentle introduction into a skillset including professional software and coding. Students will work with three different computer languages in Web Design; HTML, CSS, and JavaScript. It would be great to include more, as this alone isn't enough in the industry today, but it's better to understand the basics well, than to go through everything quickly and not be able to use any of it. No background in specialized software is required.
