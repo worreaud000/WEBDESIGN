@@ -18,7 +18,7 @@ Not all classes are available every year. The courses taught are based on the in
 
 ¹ Satisfies Fine Art Graduation Requirement
 
-![alt text](Checky.png "Yes") I understand
+![alt text](checky.png "Yes") I understand
 
 ### Classroom Expectations:
 The Balcony Mac Lab is a district computer lab, and as such has some policies that are set by the district.
@@ -29,7 +29,7 @@ Every student is sitting at a new iMac with 16 gb of ram and a 21.5” screen. A
 
 Specific homework is rarely given. As such, students are expected to be productive from the start of class, until the end. However, you are expected to interact with course content or concepts outside of class.
 
-![alt text](Checky.png "Yes") I understand
+![alt text](checky.png "Yes") I understand
 
 ### For class, please consider bringing:
 * Headphones (your personal use)
