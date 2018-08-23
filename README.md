@@ -1,4 +1,4 @@
-[Syllabus](https://worreaud000.github.io/webdesign/syllabus/)
+[Syllabus](https://worreaud000.github.io/webdesign/Syllabus/)
 
 [Course Description](https://worreaud000.github.io/webdesign/course-description/)
 
