@@ -8,7 +8,7 @@ Our Web Design course is designed to be an introduction into the fundamentals of
 
 Web Design is an intermediate-level course, not introductory level. Prior to taking Web Design, it is recommended for students to complete Fundamentals of CS or Digital Communications. Students may also consider taking Digital Art to increase general knowledge of graphic software.
 
-![alt text](../images/webdesign.jpg "CC 2.0: Generic | Cropped & Levels Adjustment  | Anthony Catalano")
+![alt text](webdesign.jpg "CC 2.0: Generic | Cropped & Levels Adjustment  | Anthony Catalano")
  
 #### Course Summary
 
