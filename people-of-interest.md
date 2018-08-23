@@ -1,6 +1,6 @@
 # People Of Interest
 
-stuff
+stuff 
 ___
 
 ### [Main Page](https://worreaud000.github.io/webdesign)
