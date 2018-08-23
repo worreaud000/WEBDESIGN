@@ -1,5 +1,4 @@
-* [Course Description](https://github.com/worreaud000/webdesign/blob/master/course-description.md
-/)
+* [Course Description](https://worreaud000.github.io/webdesign/course-description/)
 
 
 ### webdesign
