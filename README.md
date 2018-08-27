@@ -1,8 +1,8 @@
 # Course Info
-* [Syllabus](https://worreaud000.github.io/webdesign/syllabus)
-* [Course Description](https://worreaud000.github.io/webdesign/course-description)
+* [Syllabus](https://worreaud000.github.io/digitalvideo/syllabus)
+* [Course Description](https://worreaud000.github.io/digitalvideo/coursedescription)
 
 # Stuff
 
-* [What is Web Design?](https://worreaud000.github.io/webdesign/what-is-web-design)
-* [People of Interest](https://worreaud000.github.io/webdesign/people-of-interest)
+* [How Would You Define Video?](https://worreaud000.github.io/digitalvideo/whatisvideo)
+* [People of Interest](https://worreaud000.github.io/digitalvideo/peopleofinterest)
