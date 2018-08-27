@@ -1,6 +1,5 @@
 # Course Info
 * [Syllabus](https://worreaud000.github.io/digitalvideo/syllabus)
-* [Course Description](https://worreaud000.github.io/digitalvideo/coursedescription)
 
 # Stuff
 
